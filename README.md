@@ -1,1 +1,2 @@
-Lancer le fichier dans le tester de tour
+Lancé _Tour.TESTER.py
+C'est le tester le plus avancé.
